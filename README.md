@@ -15,9 +15,6 @@ ReactJS with some libraries.
 }
 ```
 ## Video
+<p>The gif is bugged 😞, see the video <a href="https://raw.githubusercontent.com/ShiWonWan/HomePage/main/VideoDemo.webm">here</a>.</p>
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://raw.githubusercontent.com/ShiWonWan/HomePage/main/VideoDemo.webm" type="video/webm">
-  </video>
-</figure>
+![Alt Text](https://raw.githubusercontent.com/ShiWonWan/HomePage/main/VideoDemo.gif)
