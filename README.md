@@ -15,4 +15,9 @@ ReactJS with some libraries.
 }
 ```
 ## Video
-![Alt Text](https://raw.githubusercontent.com/ShiWonWan/HomePage/main/VideoDemo.gif)
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="https://raw.githubusercontent.com/ShiWonWan/HomePage/main/VideoDemo.webm" type="video/webm">
+  </video>
+</figure>
